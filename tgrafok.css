@@ -1,24 +1,26 @@
-body{
-  background-repeat: no-repeat; 
+body {
+  background-repeat: no-repeat;
   padding: 10px;
   margin: 0px;
   text-align: justify;
+  background-image: url(big-graph.png);
 }
 
 p:first-letter {
-  margin-left:15px;
+  margin-left: 15px;
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
-h2, h3{
+h2,
+h3 {
   font-style: italic;
 }
 
 
-#jobbra{
+#jobbra {
   float: right;
   text-align: center;
   margin: 10px;
@@ -28,11 +30,11 @@ h2, h3{
   color: #FF0000;
 }
 
-.kerdeskep{
+.kerdeskep {
   float: left;
   margin-right: 20px;
 }
 
-a{
-  color:red;
+a {
+  color: red;
 }
